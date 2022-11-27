@@ -6,4 +6,4 @@ require (
 	gopkg.in/h2non/gock.v1 v1.0.14
 )
 
-replace github.com/superoo7/repo => github.com/hyper-capital/repo v3.2.1
+replace github.com/uperoo7/go-gecko v0.0.0 => github.com/hyper-capital/go-gecko v1.1.1
