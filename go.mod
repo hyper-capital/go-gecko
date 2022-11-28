@@ -3,7 +3,7 @@ module github.com/hyper-capital/go-gecko
 go 1.19
 
 require (
-	github.com/superoo7/go-gecko v0.0.0-00010101000000-000000000000
+	github.com/superoo7/go-gecko v1.0.0
 	gopkg.in/h2non/gock.v1 v1.0.14
 )
 
